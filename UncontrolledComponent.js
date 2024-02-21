@@ -1,3 +1,4 @@
+// The testing file is the seperate file named Uncontrolled.test.js
 import React from 'react';
 
 class UncontrolledComponent extends React.Component {
